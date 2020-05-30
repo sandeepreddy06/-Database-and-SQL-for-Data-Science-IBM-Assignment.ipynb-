@@ -1,0 +1,1 @@
+This repository contains all the assignments I have worked on in <a href="https://www.coursera.org/learn/sql-data-science/home/info">'Database and SQL for Data Science - an IBM Cognitive Class [Coursera]'</a>.
